@@ -182,6 +182,20 @@ ActiveSheet.Range("A2:C103") = tedsData
 - Ensure your hardware is properly connected and recognized by VibrationVIEW before attempting to control tests -OR- Use simulation mode
 - Check stopcode messages in the VibrationVIEW application if commands fail to execute
 
+## Contributing
+
+This is an official software distribution repository maintained by Vibration Research Corporation. It is not actively monitored for community contributions. If you encounter issues or have feature requests, please contact Vibration Research Corporation directly through our support channels.
+
+For any questions or support regarding this API, please visit our website or contact our technical support team.
+
+
 ## License
 
+This project is licensed under the MIT License - see the LICENSE file for details.
 This Excel integration is provided as an example and can be modified to suit your specific testing needs.
+
+
+## Acknowledgements
+
+- VibrationVIEW is a registered trademark of Vibration Research Corporation.
+- This API is developed and maintained by Vibration Research Corporation.
